@@ -1,1 +1,2 @@
-#Playstore Apps Analysis
+#EDA
+# Prediction Analysis
